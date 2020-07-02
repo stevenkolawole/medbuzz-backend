@@ -1,7 +1,7 @@
 # medbuzz-backend
 This repo contains backend APIs for Medbuzz, a health-related reminder mobile app.
 
-Current APIs:
+## Current APIs:
 - Login API
 - Logout API
 - UsersList API
